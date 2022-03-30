@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def mean_temperature(data):
     """
     Get the mean temperature
